@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Napkis</string>
+    <string name="hello_world">Log in...</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_str">Username</string>
+    <string name="password_str">Password</string>
+
+</resources>
